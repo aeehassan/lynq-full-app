@@ -27,3 +27,11 @@ Receive a ticket upon registration (handled via Firebase)
 ## 🧑‍💻 About the Project
 This project was developed by a student team as part of the Survey of Programming Languages course. It explores building a real-world web app using fundamental web technologies and integrating cloud services like Firebase.
 
+## Contributors
+
+- [@aeehassan](https://github.com/aeehassan "@aeehassan")
+- [@Cal12h](https://github.com/Cal12h "@Cal12h")
+- [@Jude-ent](https://github.com/Jude-ent "@Jude-ent")
+- [@Jemine-R](https://github.com/Jemine-R "@Jemine-R")
+- [@Pepsiboy24](https://github.com/Pepsiboy24 "@Pepsiboy24")
+
